@@ -39,4 +39,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 
-this app is Jigyasa ai
+this app is Jigyasa Ai
